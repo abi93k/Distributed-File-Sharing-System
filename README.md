@@ -13,8 +13,9 @@ Usage
 ```
 ./dfs <mode> <port_number>
 ```
-<mode> can be s/c
-s indicates servers
+<mode> is either s (or) c
+
+s indicates server
 
 c indicates client
 
