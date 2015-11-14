@@ -13,7 +13,7 @@ Usage
 ```
 ./dfs <mode> <port_number>
 ```
-<mode> is either s (or) c
+mode parameter is either s (or) c
 
 s indicates server
 
