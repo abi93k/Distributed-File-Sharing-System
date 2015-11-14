@@ -15,7 +15,8 @@ Usage
 ```
 <mode> can be s/c
 s indicates servers
-c indicated client
+
+c indicates client
 
 Commands
 --------
