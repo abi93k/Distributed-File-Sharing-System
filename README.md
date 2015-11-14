@@ -1,4 +1,4 @@
-Distributed-File-Sharing-System
+Distributed File Sharing System
 ======================
 Project description can be found inside Documents/
 
